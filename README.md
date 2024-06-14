@@ -1,3 +1,5 @@
+![logo](https://github.com/Savi-07/Savi-07/blob/main/linkedInBG.jpg)
+
 # 💫 About Me:
 I am an engineering student at MSIT, currently pursuing Computer Science<br>and Engineering. My academic journey has exposed me to a diverse range<br>of subjects, and I've developed proficiency in programming languages<br>such as Python, C, HTML, and CSS. Beyond my studies, my passion extends<br>to the football field where I find joy in playing the sport. As I continue to grow in<br>both my technical skills and personal interests, I'm excited to explore the<br>intersections of technology and my passion for football.
 
